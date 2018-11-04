@@ -8,7 +8,7 @@ Use `File` > `Open` to upload the assembly programms to the website instead of c
 Contains solutions to NIOS II assembly programming practice programs
 
 #### ``Lab X`` directory:
-Contains solutions to NIOS II assembly programming laboratory assignment X
+Contains solutions to NIOS II assembly/C programming laboratory assignment X
 
 <hr>
 
